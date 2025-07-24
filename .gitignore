@@ -1,0 +1,14 @@
+# Ignore compiled Java files
+*.class
+
+# Ignore JARs
+*.jar
+
+# Ignore logs
+*.log
+
+# Ignore any IDE-specific files (optional)
+*.iml
+.idea/
+.vscode/
+.DS_Store
